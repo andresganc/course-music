@@ -1,0 +1,14 @@
+
+.header {
+    display: grid;
+    justify-content: center;
+    background-color: #F5F5F5;
+}
+
+.header_title {
+    color: #0D47A1;
+}
+
+.header_subtitle {
+    color: #424242;
+}
