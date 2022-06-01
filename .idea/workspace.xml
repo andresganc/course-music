@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Functions">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/04-variables.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Variables">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/05-classes-instances.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653749408306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New: Variables">
+      <created>1654018094208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654018094208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +184,7 @@
     <MESSAGE value="New: Add project to Intellij IDEA - Kotlin JDK 17 LTS" />
     <MESSAGE value="New: Module Web, Package course NC" />
     <MESSAGE value="New: Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="New: Functions" />
+    <MESSAGE value="New: Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: Variables" />
   </component>
 </project>
