@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: When Expression">
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Ranges">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-collections.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-ranges.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655133221649</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New: Ranges">
+      <created>1655310203516</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655310203516</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +265,7 @@
     <MESSAGE value="New: For Loop" />
     <MESSAGE value="New: While loop" />
     <MESSAGE value="New: When Expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="New: When Expression" />
+    <MESSAGE value="New: Ranges" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: Ranges" />
   </component>
 </project>

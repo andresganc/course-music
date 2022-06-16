@@ -6,6 +6,7 @@ package basic.doc
 fun main() {
     rangeIn()
     rangeOut()
+    rangeIterate()
 }
 
 
@@ -27,5 +28,12 @@ fun rangeOut() {
     }
     if (list.size !in list.indices) {
         println("list size is out of valid list indices range, too")
+    }
+}
+
+// Iterate over a range.
+fun rangeIterate() {
+    for (x in 1..5) {
+        print(x)
     }
 }
