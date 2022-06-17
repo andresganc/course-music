@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Ranges">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-collections.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="Mod: Ranges. New: Collections">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-nullable-values-null-checks.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-ranges.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,21 +87,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._12_rangesKt">
-    <configuration name="_03_functionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._03_functionsKt" />
-      <module name="course-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_04_variablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._04_variablesKt" />
-      <module name="course-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._14_nullable_values_null_checksKt">
     <configuration name="_08_conditional_expressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.doc._08_conditional_expressionsKt" />
       <module name="course-kotlin.main" />
@@ -124,13 +109,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_13_collectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._13_collectionsKt" />
+      <module name="course-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_14_nullable_values_null_checksKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._14_nullable_values_null_checksKt" />
+      <module name="course-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._14_nullable_values_null_checksKt" />
+        <item itemvalue="Kotlin._13_collectionsKt" />
         <item itemvalue="Kotlin._12_rangesKt" />
         <item itemvalue="Kotlin._09_for_loopKt" />
         <item itemvalue="Kotlin._08_conditional_expressionsKt" />
-        <item itemvalue="Kotlin._04_variablesKt" />
-        <item itemvalue="Kotlin._03_functionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655310203516</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Mod: Ranges. New: Collections">
+      <created>1655423061980</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655423061980</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +272,7 @@
     <MESSAGE value="New: While loop" />
     <MESSAGE value="New: When Expression" />
     <MESSAGE value="New: Ranges" />
-    <option name="LAST_COMMIT_MESSAGE" value="New: Ranges" />
+    <MESSAGE value="Mod: Ranges. New: Collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mod: Ranges. New: Collections" />
   </component>
 </project>
