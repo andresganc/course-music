@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="Mod: Ranges. New: Collections">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-nullable-values-null-checks.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Nullable values and null checks">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/15-type-checks-automatic-casts.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655423061980</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New: Nullable values and null checks">
+      <created>1655478155798</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655478155798</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +280,7 @@
     <MESSAGE value="New: When Expression" />
     <MESSAGE value="New: Ranges" />
     <MESSAGE value="Mod: Ranges. New: Collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mod: Ranges. New: Collections" />
+    <MESSAGE value="New: Nullable values and null checks" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: Nullable values and null checks" />
   </component>
 </project>
