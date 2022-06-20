@@ -1,7 +1,5 @@
-
 package basic.examples
 
-// Hello World
-fun helloWorld() {
+fun main() {
     println("Hello World")
 }
