@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Type checks automatic casts">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codingConventions/naming-rules.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Coding Conventions, Examples">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/variables-type.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/examples/hello-world.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/examples/hello-world.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Hello_worldKt">
+  <component name="RunManager" selected="Kotlin.Variables_typeKt">
     <configuration name="Hello_worldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.examples.Hello_worldKt" />
       <module name="course-kotlin.main" />
@@ -104,15 +102,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_string_templatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._07_string_templatesKt" />
+    <configuration name="Variables_typeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc.Variables_typeKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13_collectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._13_collectionsKt" />
+    <configuration name="_07_string_templatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._07_string_templatesKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Variables_typeKt" />
         <item itemvalue="Kotlin.Hello_worldKt" />
         <item itemvalue="Kotlin._07_string_templatesKt" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin._14_nullable_values_null_checksKt" />
-        <item itemvalue="Kotlin._13_collectionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655563417743</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New: Coding Conventions, Examples">
+      <created>1655738398812</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655738398812</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +296,7 @@
     <MESSAGE value="Mod: Ranges. New: Collections" />
     <MESSAGE value="New: Nullable values and null checks" />
     <MESSAGE value="New: Type checks automatic casts" />
-    <option name="LAST_COMMIT_MESSAGE" value="New: Type checks automatic casts" />
+    <MESSAGE value="New: Coding Conventions, Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: Coding Conventions, Examples" />
   </component>
 </project>
