@@ -1,0 +1,3 @@
+package codingConventions
+
+// Function names

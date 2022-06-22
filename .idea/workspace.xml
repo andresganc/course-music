@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: Coding Conventions, Examples">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/variables-type.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: variables type">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655738398812</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="New: variables type">
+      <created>1655829856409</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655829856409</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +303,7 @@
     <MESSAGE value="New: Nullable values and null checks" />
     <MESSAGE value="New: Type checks automatic casts" />
     <MESSAGE value="New: Coding Conventions, Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="New: Coding Conventions, Examples" />
+    <MESSAGE value="New: variables type" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: variables type" />
   </component>
 </project>
