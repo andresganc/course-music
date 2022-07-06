@@ -4,17 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="Mod: Arrays">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/11-for-each.kt" afterDir="false" />
+    <list default="true" id="8e4afbba-dc1f-4aef-be08-484114e1d0d8" name="Changes" comment="New: For Each. Mod: Renames number.">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/10-is.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/11-in.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/22-list.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/11-while-loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-while-loop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-when-expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-when-expressions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-ranges.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/15-collections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/15-nullable-values-null-checks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/16-nullable-values-null-checks.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/16-type-checks-automatic-casts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/17-type-checks-automatic-casts.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/17-arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/18-arrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/18-list.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/19-list.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/09-conditional-expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-conditional-expressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/10-for-loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-for-loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/11-for-each.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-for-each.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/12-while-loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/15-while-loop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/13-when-expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/16-when-expressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/14-ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/17-ranges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/15-collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/18-collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/16-nullable-values-null-checks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/20-nullable-values-null-checks.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/17-type-checks-automatic-casts.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/19-type-checks-automatic-casts.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/18-arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/21-arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/doc/19-list.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/doc/09-it.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +100,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._18_arraysKt">
+  <component name="RunManager" selected="Kotlin._22_listKt">
     <configuration name="Hello_worldKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.exercises.Hello_worldKt" />
       <module name="course-kotlin.main" />
@@ -103,29 +108,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_variables_typeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._05_variables_typeKt" />
+    <configuration name="_14_for_eachKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._14_for_eachKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_11_for_eachKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._11_for_eachKt" />
+    <configuration name="_16_when_expressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._16_when_expressionsKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13_when_expressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._13_when_expressionsKt" />
+    <configuration name="_21_arraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._21_arraysKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_18_arraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.doc._18_arraysKt" />
+    <configuration name="_22_listKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.doc._22_listKt" />
       <module name="course-kotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._18_arraysKt" />
-        <item itemvalue="Kotlin._11_for_eachKt" />
+        <item itemvalue="Kotlin._22_listKt" />
+        <item itemvalue="Kotlin._21_arraysKt" />
+        <item itemvalue="Kotlin._14_for_eachKt" />
         <item itemvalue="Kotlin.Hello_worldKt (1)" />
-        <item itemvalue="Kotlin._13_when_expressionsKt" />
-        <item itemvalue="Kotlin._05_variables_typeKt" />
+        <item itemvalue="Kotlin._16_when_expressionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656874250062</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="New: For Each. Mod: Renames number.">
+      <created>1657032029139</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657032029139</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,6 +380,7 @@
     <MESSAGE value="Mod: Array" />
     <MESSAGE value="Mod: Exercises Hello world" />
     <MESSAGE value="Mod: Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mod: Arrays" />
+    <MESSAGE value="New: For Each. Mod: Renames number." />
+    <option name="LAST_COMMIT_MESSAGE" value="New: For Each. Mod: Renames number." />
   </component>
 </project>
