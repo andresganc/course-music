@@ -1,5 +1,9 @@
 package basic.examples
 
 fun main() {
-    println("Hello World")
+    print(helloWorld("Andres"))
+}
+
+fun helloWorld(name: String): String {
+    return "Hello $name"
 }
