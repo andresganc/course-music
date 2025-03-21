@@ -6,5 +6,7 @@
 
 ## ARRANGEMENTS
 
+## HARDWARE
+
 ## COMPOSITION
 
